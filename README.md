@@ -1,2 +1,2 @@
 # datamining
-code
+code in the data mining course
